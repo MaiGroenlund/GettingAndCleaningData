@@ -2,10 +2,11 @@
 
 #### Raw data
 
-The raw data is obtained from:
+The raw data can be obtained from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The description of the raw data is found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The description of the raw data is found here: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ######Information:
 

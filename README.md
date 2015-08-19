@@ -3,12 +3,12 @@
 This repository contains the R code and documentation files for the course project for the Coursera course “Getting and Cleaning Data”.
 
 ### Precautions
-Before running the script please make sure you have the following R packages installed: 
+Before running the R-script please make sure you have the following R packages installed: 
 dplyr, reshape2
 
-### About the script
-The R-script run_analysis performs the following:
--	The script downloads and unzips the files if they are not present in a directory called Data in the current working directory. 
+### About the R-script
+The R-script _run_analysis_ performs the following:
+-	The script downloads and unzips the files if they are not present in a directory called _Data_ in the current working directory. 
 -	The raw data files are loaded in
 -	The test and train datasets are merged together
 -	The feature names are added as columns names to the the dataset containing the measurements to give descriptive variable names
@@ -18,4 +18,4 @@ The R-script run_analysis performs the following:
 -	The dataset is transformed into a new tidy dataset with the average of each variable for each activity and each subject
 
 ### About the CodeBook
-The code book contains a description of the raw data, the list of transformations the R script performs and a list of variables in the resulting tidy dataset.
+The code book contains a description of the raw data, the list of transformations the R-script performs and a list of variables in the resulting tidy dataset.
