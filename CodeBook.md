@@ -40,14 +40,12 @@ The tidy data consists of the following variables:
 
 ###### Subject and Activity
 subject_id 
-
-	The ID of the test subject performing the activity
-	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+The ID of the test subject performing the activity
+Values: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
 
 activity_txt       
-
-            	Name of the type of activity the subject is performing
-		LAYING, SITTING, STANDING WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
+Name of the type of activity the subject is performing
+Values: LAYING, SITTING, STANDING WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
 ###### Measurements
 
