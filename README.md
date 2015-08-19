@@ -17,5 +17,5 @@ The R-script run_analysis performs the following:
 -	The subject-ids are added to the dataset
 -	The dataset is transformed into a new tidy dataset with the average of each variable for each activity and each subject
 
-### About the Code Book
+### About the CodeBook
 The code book contains a description of the raw data, the list of transformations the R script performs and a list of variables in the resulting tidy dataset.
