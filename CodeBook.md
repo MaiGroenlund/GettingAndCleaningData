@@ -40,8 +40,8 @@ The tidy data consists of the following variables:
 
 ###### Subject and Activity
 
-subject_id 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ID of the test subject performing the activity
+subject_id <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ID of the test subject performing the activity <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Values: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
 
 activity_txt       
